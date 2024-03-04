@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A Informatics and Computer Engineering Student @ FEUP</h3>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmdionisio&theme=tokyonight)
+<h3 align="left">Some of my projects</h3>
 
 | Subject | Project Name | Project Description |
 |---------|---------------| ---------|
 | Lab Bases Dados e Apps Web | [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) | A Simple social network using the laravel framework |
 | Fund. Segurança Informática | [LogBooks](https://github.com/miguelmdionisio/logbooks-FSI) | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/) |
-| Lab. Desenho e Teste de Softwarew | [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame resembling old Pokemon games |
+| Lab. Desenho e Teste de Software | [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame resembling old Pokemon games |
+| Redes de Computadores |  |  |
+| Programação Funcional e Lógica | | |
 
 
 <h3 align="left">Connect with me:</h3>
