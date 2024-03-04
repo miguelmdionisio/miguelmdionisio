@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A Informatics and Computer Engineering Student @ FEUP</h3>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelmdionisio)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelmdionisio)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Some of my projects</h3>
 
 | Subject | Project Name | Project Description |
