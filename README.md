@@ -4,8 +4,8 @@
 | Subject | Project Name | Project Description |
 |---------|---------------| ---------|
 | Lab Bases Dados e Apps Web | [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) | A Simple social network using the laravel framework |
-| Fund. Segurança Informática | [LogBooks]() | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/) |
-| Lab. Desenho e Teste de Softwarew | [Pokemon Style Game]() | A videogame resembling old Pokemon games |
+| Fund. Segurança Informática | [LogBooks](https://github.com/miguelmdionisio/logbooks-FSI) | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/) |
+| Lab. Desenho e Teste de Softwarew | [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame resembling old Pokemon games |
 
 
 <h3 align="left">Connect with me:</h3>
