@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A Informatics and Computer Engineering Student @ FEUP</h3>
-<br>
+<br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmdionisio&theme=tokyonight)
 <h3 align="left">Some of my projects</h3>
 
