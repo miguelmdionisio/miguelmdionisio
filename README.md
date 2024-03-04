@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A Informatics and Computer Engineering Student @ FEUP</h3>
 
-| Projects |
 | Subject | Project Name |
+|---------|---------------|
 | Lab Bases Dados e Apps Web | [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) |
 | Fund. Segurança Informática | [LogBooks]() |
 | Lab. Desenho e Teste de Softwarew | [Pokemon Style Game]() |
