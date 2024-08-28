@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A Informatics and Computer Engineering Student @ FEUP</h3>
+<h3 align="center">Informatics and Computer Engineering @ FEUP</h3>
 <br>
+<h3 align="center">Masters @ IST</h3>
 
 
 
