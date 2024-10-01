@@ -12,8 +12,8 @@
 | [ARTefacto](https://github.com/MariaLaranjeira/ARtifactCapstoneProject2324) | A mobile application that aims to "gamify" the experience of Museu Nacional Soares dos Reis, by use of Augmented Reality |
 | [Jmm compiler](https://github.com/Ruben38Esteves/Project-Comp-JmmCompiler)| A complete compiler for "Java--", from semantics and lexer to Jasmin and OLLIR generation |
 | Thin Ice | A low level videogame played with keyboard, timer, mouse and graphic drivers that we developed for [Minix](https://pt.wikipedia.org/wiki/MINIX) operating system. |
-| [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) | A complete social network using the laravel framework |
-| [ChessKoban](https://github.com/Ruben38Esteves/Project-IA-Chesskoban) | A mix of Koban and chess with a competent AI opponent that uses famous search algorithms. |
+| [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) | A complete social network using the laravel framework. Covers safe authentication, message exchange, posts amongst other common features |
+| [ChessKoban](https://github.com/Ruben38Esteves/Project-IA-Chesskoban) | A mix of Koban and chess with a competent AI opponent that uses famous deep search algorithms. |
 | [LogBooks](https://github.com/miguelmdionisio/logbooks-FSI) | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/), covering the basics of Cyber Security. |
 | [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame in java resembling old Pokemon games, My introduction to object oriented programming. |
 
