@@ -11,8 +11,8 @@
 |---------------| ---------|
 | [ARTefacto](https://github.com/MariaLaranjeira/ARtifactCapstoneProject2324) | A mobile application that aims to "gamify" the experience of Museu Nacional Soares dos Reis, by use of Augmented Reality |
 | [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) | A Simple social network using the laravel framework |
-| [LogBooks](https://github.com/miguelmdionisio/logbooks-FSI) | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/) |
-| [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame resembling old Pokemon games |
+| [LogBooks](https://github.com/miguelmdionisio/logbooks-FSI) | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/), covering the basics of Cyber Security |
+| [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame in java resembling old Pokemon games |
 | Javamm | A complete compiler for "Java--" |
 
 
