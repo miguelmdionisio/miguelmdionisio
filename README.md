@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">Informatics and Computer Engineering @ FEUP</h3>
-<br>
-<h3 align="center">Masters @ IST</h3>
+<h3 align="center">Masters in Informatics specialized in AI and Data Science @ IST</h3>
+<p>I'm a portuguese based developer, currently interested mainly in Data Science.</p>
 
 
 
