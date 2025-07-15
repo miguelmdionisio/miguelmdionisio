@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">Informatics and Computer Engineering @ FEUP</h3>
 <h3 align="center">Masters in Informatics specialized in AI and Data Science @ IST</h3>
-<p>I'm a portuguese based developer, currently interested mainly in Data Science.</p>
+<p>I'm a portuguese developer, currently dedicated to learning Machine Learing.</p>
 
 
 
@@ -9,15 +9,7 @@
 
 | Project Name | Project Description |
 |---------------| ---------|
-| [ARTefacto](https://github.com/MariaLaranjeira/ARtifactCapstoneProject2324) | A mobile application that aims to "gamify" the experience of Museu Nacional Soares dos Reis, by use of Augmented Reality |
-| [Jmm compiler](https://github.com/Ruben38Esteves/Project-Comp-JmmCompiler)| A complete compiler for "Java--", from semantics and lexer to Jasmin and OLLIR generation |
-| Thin Ice | A low level videogame played with keyboard, timer, mouse and graphic drivers that we developed for [Minix](https://pt.wikipedia.org/wiki/MINIX) operating system. |
-| [SocialCircle](https://github.com/miguelmdionisio/SocialCirlcle-lbaw) | A complete social network using the laravel framework. Covers safe authentication, message exchange, posts amongst other common features |
-| [ChessKoban](https://github.com/Ruben38Esteves/Project-IA-Chesskoban) | A mix of Koban and chess with a competent AI opponent that uses famous deep search algorithms. |
-| [LogBooks](https://github.com/miguelmdionisio/logbooks-FSI) | Log books regarding the completion of [Seed Security Labs](https://seedsecuritylabs.org/Labs_20.04/), covering the basics of Cyber Security. |
-| [Pokemon Style Game](https://github.com/miguelmdionisio/LDTS-pokemon) | A videogame in java resembling old Pokemon games, My introduction to object oriented programming. |
-
-
+| [ARTefacto](https://github.com/MariaLaranjeira/ARtifactCapstoneProject2324) | Developed in cooperation with Museu Nacional Soares dos Reis in Porto, an app that gamifies the museum using AR |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
